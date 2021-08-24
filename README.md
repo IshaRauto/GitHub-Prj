@@ -1,2 +1,0 @@
-# GitHub-Prj
-hello.
